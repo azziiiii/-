@@ -82,7 +82,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/26798/Desktop/11111/Button.h">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="C:/Users/26798/Desktop/11111/Game.h">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="C:/Users/26798/Desktop/11111/HEAD.h">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="C:/Users/26798/Desktop/11111/Widget.h">
+			<Option target="11111"/>
+		</Unit>
 		<Unit filename="C:/Users/26798/Desktop/11111/main.cpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="C:/Users/26798/Desktop/11111/map.h">
 			<Option target="11111"/>
 		</Unit>
 		<Unit filename="C:/Users/26798/Desktop/11111/CMakeLists.txt">
